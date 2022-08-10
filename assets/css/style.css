@@ -1,0 +1,34 @@
+
+.high-score{
+    color: blue;
+}
+
+.time-viewed {
+    text-align: right;
+    position: absolute;
+    right: 60px;
+}
+
+#main-heading {
+    
+    color: blue;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 40%;
+}
+
+#quiz-text {
+    font-style: oblique;
+     position: absolute;
+    margin-top: 150px;
+    margin-left: 100px;
+    
+}
+
+.start-button {
+
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 47% ;
+    color: dodgerblue;
+}
