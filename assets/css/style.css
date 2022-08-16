@@ -24,7 +24,9 @@
     margin-left: 100px;
     
 }
-
+.hide {
+    display: none;
+}
 .start-button {
 
     position: absolute;
