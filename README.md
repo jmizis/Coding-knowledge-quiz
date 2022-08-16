@@ -12,3 +12,5 @@ Once my JavaScript got completed I pushed my finish assignment on GitHub reposit
 Using gitt -A / git commit -m / git push.
 Once in my repository I went to setting, pages, and created my deployed site.
 The final step was to submit it to my Bootcamp with my repository URL and Deployed URL.
+Deployed URL: https://jmizis.github.io/Coding-knowledge-quiz/
+![Screenshot (4)](https://user-images.githubusercontent.com/107073756/184780415-00be08a7-5ef6-4885-ae6f-4fb3da5c119a.png)
